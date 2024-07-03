@@ -2,7 +2,7 @@ id: chdbits
 name: 彩虹岛
 domain: https://chdbits.co/
 encoding: UTF-8
-config_url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/yl948/mr-sites/blob/main/sites/chdbits.yml
+config_url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/yl948/mr-sites/main/sites/chdbits.yml
 
 login:
   test:
